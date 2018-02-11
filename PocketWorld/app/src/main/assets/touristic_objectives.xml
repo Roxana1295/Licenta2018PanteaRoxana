@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="colosseum_4" size="0.500000 0.333203" />
+    <ImageTarget name="colosseum_2" size="0.500000 0.375234" />
+    <ImageTarget name="colosseum_5" size="0.500000 0.295204" />
+    <ImageTarget name="colosseum_1" size="0.500000 0.281169" />
+    <ImageTarget name="colosseum_0" size="0.500000 0.327560" />
+  </Tracking>
+</QCARConfig>
