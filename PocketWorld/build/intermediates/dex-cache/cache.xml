@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pntro\.android\build-cache\655d3b517edcc8d188bc7aebedf70a61905f4c7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19faf7054425e9628591d21288a67f894044e232\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pntro\.android\build-cache\7ffcfd162416ca85cd871e92998e1791c537223f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4480c1a3310cfe1ed76a72be9b51ad54b61853f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d15a12344beb1d99766aa702665a665471d2815a">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3b4f49adbac2cb4c37d051800dac82fff1cf3b25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Licenta_februarie\PocketWorld\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Licenta_februarie\PocketWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5c139a6adc1d22494f304e049b7a04737c8b5419\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Licenta_februarie\VuforiaSamples\app\libs\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc8f215f7814c3bb08f45cba9659e25db9e5f1e4">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_03c6d024a53e48200324dd33436403b2705b8d81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pntro\.android\build-cache\ac669ad6cd2160f82ccd0af7950408b9330735d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_368c0452f68adce41da9c8a32e4c94d82f94514e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Licenta_februarie\PocketWorld\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da6caa1175db10dac8d208d89e3c0511d2a3d958">
+        <dex dex="D:\Licenta_februarie\PocketWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2ceb4e949ac4974bf3eaac7c632309086271ef37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pntro\.android\build-cache\6eed8713075c887e1cb9b822f629632328a9fab0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b11f25dc598adbe63b4864b88c6f575e8432c578\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d9d1b8488c9a8190b5ffcc8c35df093f3745d02f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pntro\.android\build-cache\8800f2d12dd21bdd318e9268e150ce6366ec20de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_615ce44ae8de65595a5a3830758cef32b3519cad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pntro\.android\build-cache\7f77d901e3b6c38279ab4f9a2293f7afb15d9161\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2c774a9c4466620ee5adb40d600c233a3d50b13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pntro\.android\build-cache\806ae68c8523b1b66053b01750daf3d019d0e60e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_285b0777ef44bccdf618ad4bf0034a7ded5ac98f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Licenta_februarie\PocketWorld\app\libs\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc8f215f7814c3bb08f45cba9659e25db9e5f1e4">
+        <dex dex="D:\Licenta_februarie\PocketWorld\app\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_ed0053d275a759ceba2e171b7892613e708fe4e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pntro\.android\build-cache\056b71b356923fe15fedfbbcfbbb6bf8aaac3ace\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e070f775e03d278cbabe21a99ac14c34fddaf1ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pntro\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_2faa45eb1b503ef68b143d1c3b2a172125062286\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pntro\.android\build-cache\bac1c92c10f4360c6d1e282f8dc59870658f87bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4da90195c2b2fa2681505eb2ad81da588ef91ddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pntro\.android\build-cache\66b520101c51eb2b1164eeff6c4d19e0080603d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\Licenta_februarie\VuforiaSamples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af5effa9c16987c7fc9bf8ddb9ef58c61abff161\classes.dex" />
+    </item>
+
+</items>
