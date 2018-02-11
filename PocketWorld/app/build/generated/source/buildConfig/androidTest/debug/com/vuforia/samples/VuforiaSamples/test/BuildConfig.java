@@ -1,5 +1,6 @@
 /**
  * Automatically generated file. DO NOT MODIFY
+ */
 package com.vuforia.samples.VuforiaSamples.test;
 
 public final class BuildConfig {
