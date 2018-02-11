@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:2:1-151:12
+	package
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:14:5-74
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\pntro\.android\build-cache\ac669ad6cd2160f82ccd0af7950408b9330735d4\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\pntro\.android\build-cache\806ae68c8523b1b66053b01750daf3d019d0e60e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\pntro\.android\build-cache\66b520101c51eb2b1164eeff6c4d19e0080603d4\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\pntro\.android\build-cache\8800f2d12dd21bdd318e9268e150ce6366ec20de\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\pntro\.android\build-cache\7f77d901e3b6c38279ab4f9a2293f7afb15d9161\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\pntro\.android\build-cache\bac1c92c10f4360c6d1e282f8dc59870658f87bc\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\pntro\.android\build-cache\6eed8713075c887e1cb9b822f629632328a9fab0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\pntro\.android\build-cache\7ffcfd162416ca85cd871e92998e1791c537223f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\pntro\.android\build-cache\056b71b356923fe15fedfbbcfbbb6bf8aaac3ace\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\pntro\.android\build-cache\655d3b517edcc8d188bc7aebedf70a61905f4c7e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\pntro\.android\build-cache\7f77d901e3b6c38279ab4f9a2293f7afb15d9161\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:14:42-71
+		INJECTED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:14:15-41
+		INJECTED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:16:5-54
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\pntro\.android\build-cache\ac669ad6cd2160f82ccd0af7950408b9330735d4\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:16:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\pntro\.android\build-cache\ac669ad6cd2160f82ccd0af7950408b9330735d4\output\AndroidManifest.xml:21:52-75
+uses-feature#android.hardware.camera
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:32:5-60
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:32:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:37:5-65
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:37:22-62
+uses-permission#android.permission.INTERNET
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:42:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\pntro\.android\build-cache\ac669ad6cd2160f82ccd0af7950408b9330735d4\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:42:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:48:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\pntro\.android\build-cache\ac669ad6cd2160f82ccd0af7950408b9330735d4\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:48:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:50:5-79
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:50:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:51:5-80
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:51:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:55:5-79
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:55:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:57:5-81
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:57:22-78
+application
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:68:5-149:19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\pntro\.android\build-cache\ac669ad6cd2160f82ccd0af7950408b9330735d4\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\pntro\.android\build-cache\806ae68c8523b1b66053b01750daf3d019d0e60e\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\pntro\.android\build-cache\66b520101c51eb2b1164eeff6c4d19e0080603d4\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\pntro\.android\build-cache\8800f2d12dd21bdd318e9268e150ce6366ec20de\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\pntro\.android\build-cache\7f77d901e3b6c38279ab4f9a2293f7afb15d9161\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\pntro\.android\build-cache\bac1c92c10f4360c6d1e282f8dc59870658f87bc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\pntro\.android\build-cache\6eed8713075c887e1cb9b822f629632328a9fab0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\pntro\.android\build-cache\7ffcfd162416ca85cd871e92998e1791c537223f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\pntro\.android\build-cache\056b71b356923fe15fedfbbcfbbb6bf8aaac3ace\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\pntro\.android\build-cache\655d3b517edcc8d188bc7aebedf70a61905f4c7e\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:70:9-41
+	android:launchMode
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:71:9-40
+	android:allowBackup
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:72:9-35
+	android:icon
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:69:9-38
+	android:theme
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:73:9-47
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.SplashScreenActivity
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:92:10-103:21
+	android:screenOrientation
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:95:13-49
+	android:noHistory
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:96:13-37
+	android:configChanges
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:94:13-93
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:93:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:98:13-102:29
+action#android.intent.action.MAIN
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:99:17-69
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:99:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:101:17-77
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:101:27-74
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.ActivityLauncher
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:105:9-110:20
+	android:screenOrientation
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:108:13-49
+	android:configChanges
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:107:13-93
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:106:13-61
+activity#com.vuforia.samples.VuforiaSamples.app.ARCamera.ARCamera
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:112:9-118:20
+	android:launchMode
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:116:13-44
+	android:configChanges
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:114:13-93
+	android:theme
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:115:13-51
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:113:13-50
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.LandmarkInfoActivity
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:119:9-125:20
+	android:launchMode
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:123:13-44
+	android:configChanges
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:121:13-93
+	android:theme
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:122:13-51
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:120:13-65
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.SearchLandmarkActivity
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:126:9-132:20
+	android:launchMode
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:130:13-44
+	android:configChanges
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:128:13-93
+	android:theme
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:129:13-51
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:127:13-67
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.ClosestLandmarksActivity
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:133:9-139:20
+	android:launchMode
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:137:13-44
+	android:configChanges
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:135:13-93
+	android:theme
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:136:13-51
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:134:13-69
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.AddItemActivity
+ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:141:9-147:20
+	android:launchMode
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:145:13-44
+	android:configChanges
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:143:13-93
+	android:theme
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:144:13-51
+	android:name
+		ADDED from D:\Licenta_februarie\PocketWorld\app\src\main\AndroidManifest.xml:142:13-60
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\pntro\.android\build-cache\806ae68c8523b1b66053b01750daf3d019d0e60e\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\pntro\.android\build-cache\806ae68c8523b1b66053b01750daf3d019d0e60e\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\pntro\.android\build-cache\806ae68c8523b1b66053b01750daf3d019d0e60e\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\pntro\.android\build-cache\806ae68c8523b1b66053b01750daf3d019d0e60e\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\pntro\.android\build-cache\8800f2d12dd21bdd318e9268e150ce6366ec20de\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\pntro\.android\build-cache\8800f2d12dd21bdd318e9268e150ce6366ec20de\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\pntro\.android\build-cache\8800f2d12dd21bdd318e9268e150ce6366ec20de\output\AndroidManifest.xml:20:20-65
