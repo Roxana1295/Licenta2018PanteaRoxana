@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Licenta_februarie\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\release\\layout\\splash_screen.xml",
+        "source": "D:\\Licenta_februarie\\VuforiaSamples\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Licenta_februarie\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\release\\layout\\landmark_info_activity.xml",
+        "source": "D:\\Licenta_februarie\\VuforiaSamples\\app\\src\\main\\res\\layout\\landmark_info_activity.xml"
+    },
+    {
+        "merged": "D:\\Licenta_februarie\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\release\\layout\\search_landmark_activity.xml",
+        "source": "D:\\Licenta_februarie\\VuforiaSamples\\app\\src\\main\\res\\layout\\search_landmark_activity.xml"
+    },
+    {
+        "merged": "D:\\Licenta_februarie\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\release\\layout\\camera_overlay.xml",
+        "source": "D:\\Licenta_februarie\\VuforiaSamples\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+    },
+    {
+        "merged": "D:\\Licenta_februarie\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\release\\layout\\closest_landmarks.xml",
+        "source": "D:\\Licenta_februarie\\VuforiaSamples\\app\\src\\main\\res\\layout\\closest_landmarks.xml"
+    },
+    {
+        "merged": "D:\\Licenta_februarie\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\release\\layout\\landmark_item.xml",
+        "source": "D:\\Licenta_februarie\\VuforiaSamples\\app\\src\\main\\res\\layout\\landmark_item.xml"
+    },
+    {
+        "merged": "D:\\Licenta_februarie\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_launcher_layout.xml",
+        "source": "D:\\Licenta_februarie\\VuforiaSamples\\app\\src\\main\\res\\layout\\activity_launcher_layout.xml"
+    }
+]

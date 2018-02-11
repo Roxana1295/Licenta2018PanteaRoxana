@@ -1,0 +1,7 @@
+#Sun Feb 11 22:52:08 EET 2018
+base.0=D\:\\Licenta_februarie\\PocketWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5c139a6adc1d22494f304e049b7a04737c8b5419
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Licenta_februarie\\PocketWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2ceb4e949ac4974bf3eaac7c632309086271ef37\\classes.dex
+base.1=D\:\\Licenta_februarie\\PocketWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2ceb4e949ac4974bf3eaac7c632309086271ef37
+file.0=D\:\\Licenta_februarie\\PocketWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5c139a6adc1d22494f304e049b7a04737c8b5419\\classes.dex

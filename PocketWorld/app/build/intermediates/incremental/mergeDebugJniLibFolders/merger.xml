@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Licenta_februarie\PocketWorld\app\src\main\jniLibs"/><source path="D:\build\lib"/></dataSet><dataSet config="debug"><source path="D:\Licenta_februarie\PocketWorld\app\src\debug\jniLibs"/></dataSet></merger>
